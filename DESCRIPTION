@@ -1,0 +1,11 @@
+Package: FuncionCP
+Type: Package
+Title: realiza el modelo doble o modificado de Cuadrado de Pearson 
+Version: 0.1.0
+Author: Elizabeth Rojas Sandoval 
+Maintainer: The package maintainer <elizarosand@gmail.com>
+Description: devuelve la cantidad de proteina que aporta cada alimento,la clasificacion de los alimentos energéticos y los proteicos, nos permite calcular la cantidad de alimento que se utiliza de acuerdo a la cantidad que se quiere hacer, y el precio total que costará toda la alimentación.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
